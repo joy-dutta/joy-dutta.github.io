@@ -1,23 +1,24 @@
-# Joy Dutta personal portfolio demo
+# Dr. Joy Dutta | Academic Portfolio
 
-This static site follows the six-page information architecture and visual hierarchy of `https://deepakputhal.github.io/`, with content adapted from Joy Dutta's current public academic website and profiles.
+This repository publishes the academic portfolio of Dr. Joy Dutta, a Postdoctoral Fellow at United Arab Emirates University working on agentic AI, edge intelligence, blockchain, cybersecurity, IoT, and intelligent infrastructure.
 
-## Local preview
+## Portfolio sections
 
-From the parent `github-pages-demos` directory, run:
+- Professional experience, education, funded projects, and academic service
+- Research interests, selected contributions, publications, and technical skills
+- Awards and research impact
+- MSc and undergraduate supervision
+- Teaching experience, methods, and languages
 
-```powershell
-python -m http.server 4173
-```
+## Live website
 
-Then open `http://localhost:4173/personal-portfolio/`.
+<https://joy-dutta.github.io/>
 
-## GitHub Pages destination
+## Academic profiles
 
-Publish these files from the public repository named `joy-dutta.github.io` under the `joy-dutta` account. GitHub Pages serves the site at `https://joy-dutta.github.io/`.
+- [Google Scholar](https://scholar.google.co.in/citations?hl=en&user=Mzs5Bx4AAAAJ)
+- [ORCID](https://orcid.org/0000-0003-4862-1589)
+- [LinkedIn](https://www.linkedin.com/in/joydutta1/)
+- [GitHub](https://github.com/joy-dutta)
 
-## Before publication
-
-- Verify the selected-publication titles and years against the final CV.
-- Confirm whether the public contact email should remain `dr.joydutta.phd@gmail.com`.
-- Replace or remove any content the author does not want publicly indexed.
+The portfolio is maintained as a static GitHub Pages site using accessible HTML and responsive CSS.
